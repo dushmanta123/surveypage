@@ -1,0 +1,84 @@
+.navigation
+{
+    background-color: rgb(28, 15, 97);
+    padding: 08px;
+}
+.nav
+ { text-align: center; font-family: cursive; color: white;}
+ #special { color: rgba(35, 66, 204, 0.911); font-family: sans-serif;}
+ .contain 
+ {
+     background-color: rgba(10, 218, 208, 0.37);
+     text-align: center;
+     padding: 10px;
+ }
+ /* This is option one  */
+ .option1  
+{
+      background-color: white;
+      padding: 5px;
+}
+ #one { border: solid 2px black; padding: 10px;}
+ #two { border: solid 2px black; padding: 10px;}
+ #three { border: solid 2px black; padding: 10px;}
+
+ /* This is option two  */
+ .option2
+ {
+    background-color: white;
+    padding: 5px;
+    margin-top: 15px;
+ }
+ #four { border: solid 2px black; padding: 10px;}
+ #five { border: solid 2px black; padding: 10px;}
+ #six { border: solid 2px black; padding: 10px;}
+
+ /* This is option three  */
+ .option3
+ {
+    background-color: white;
+    padding: 5px;
+    margin-top: 15px;
+ }
+ #seven { border: solid 2px black; padding: 10px;}
+ #eight { border: solid 2px black; padding: 10px;}
+ #nine { border: solid 2px black; padding: 10px;}
+
+ /* This is option four  */
+ .option4
+ {
+    background-color: white;
+    padding: 5px;
+    margin-top: 15px;
+ }
+ #ten { border: solid 2px black; padding: 10px;}
+ #eleven { border: solid 2px black; padding: 10px;}
+ #twelve { border: solid 2px black; padding: 10px;}
+
+ /* This is option five  */
+ .option5
+ {
+    background-color: white;
+    padding: 5px;
+    margin-top: 15px;
+ }
+ #thirteen { border: solid 2px black; padding: 10px;}
+ #fourteen { border: solid 2px black; padding: 10px;}
+ #fiveteen { border: solid 2px black; padding: 10px;}
+
+ /* hover  */
+ #one:hover { background-color: green; color: red; }
+ #two:hover { background-color: green; color: red;}
+ #three:hover { background-color: green; color: red;}
+ #four:hover { background-color: green; color: red;}
+ #five:hover { background-color: green; color: red;}
+ #six:hover { background-color: green; color: red;}
+ #seven:hover { background-color: green; color: red;}
+ #eight:hover { background-color: green; color: red;}
+ #nine:hover { background-color: green; color: red;}
+ #ten:hover { background-color: green; color: red;}
+ #eleven:hover { background-color: green; color: red;}
+ #twelve:hover { background-color: green; color: red;}
+ #thirteen:hover { background-color: green; color: red;}
+ #fourteen:hover { background-color: green; color: red;}
+ #fiveteen:hover { background-color: green; color: red; }
